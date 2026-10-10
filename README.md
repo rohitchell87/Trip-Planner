@@ -272,6 +272,8 @@ The current S3 website URL uses HTTP. Use an HTTPS-enabled deployment for the fi
 - Evaluate predictions across more cities, weather conditions, and travel modes.
 - Measure real-world exposure changes through controlled evaluation.
 
+## Youtube demo link - https://youtu.be/jqwXbUeHRhA?si=TZwLf_bGFQSrgRyf
+
 ## 👥 Team
 
 - Sam
